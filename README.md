@@ -12,10 +12,10 @@
 
 * "Must-See" classics listed first!
   - Instantly see what you must watch so that you can understand my family!
-* Quick Summaries
-  - One-liners that describe the movie theme.
 * Curated Trailers
   - Only the finest and succint trailers are offered for your viewing pleasure!
+* Quick Summaries (_coming soon..._)
+  - One-liners that describe the movie theme.
 
 ## How To Use
 
