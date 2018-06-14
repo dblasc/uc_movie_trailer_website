@@ -1,12 +1,10 @@
 <h1 align="center">
    DB's Movie Trailers
-   <br>
 </h1>
 
-<h2 align="center">
+<h3 align="center">
    Movie trailer website project for Udacity
-   <br>
-</h2>
+</h3>
 
 ## Key Features
 
