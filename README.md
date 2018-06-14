@@ -9,11 +9,13 @@
 </h2>
 
 ## Key Features
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
+
+* "Must-See" classics listed first!
+  - Instantly see what you must watch so that you can understand my family!
+* Quick Summaries
+  - One-liners that describe the movie theme.
+* Curated Trailers
+  - Only the finest and succint trailers are offered for your pleasure!
 
 ## How To Use
 
