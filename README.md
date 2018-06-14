@@ -19,8 +19,15 @@
 
 ## How To Use
 
-1. Download all three ```.py``` files and place them in the same folder on your computer.
-2. Open ```my_entertainment_center.py``` and 
+1. Download all three ```.py``` files and place them in the same folder on
+   your computer.
+2. Navigate to the folder that contains the three files. 
+3. Double-click the file ```my_entertainment_center.py```.
+4. Click on any movie poster to launch the youtube video player.
+5. Click the arrow to start the trailer.
+6. Click the "X" in the upper right corner of the video player OR anywhere
+   on your screen to close the video player.
+7. Enjoy!!!
 
 ## Credits
 
