@@ -19,6 +19,9 @@
 
 ## How To Use
 
+1. Download all three ".py" files and place them in the same folder on your computer.
+2. Open "my_entertainment_center.py" and 
+
 ## Credits
 
 ## License
