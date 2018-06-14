@@ -1,7 +1,6 @@
 <h1 align="center">
    DB's Movie Trailers
 </h1>
-
 <h3 align="center">
    Movie trailer website project for Udacity
 </h3>
